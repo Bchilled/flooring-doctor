@@ -1,2 +1,5 @@
-# flooring-doctor
-Flooring Doctor — Josh Tregear flooring site (Bradford ON)
+# Flooring Doctor
+
+Josh Tregear — Bradford & York Region flooring installation.
+
+Contact: Yourflooringdoctor@gmail.com · 647-463-7789
